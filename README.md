@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @thanhbinh030296
-- 👀 I’m currently a MLOPs and ML engineer.
+- 👀 I’m currently a MLOPs and DevOps engineer.
+- I am working both of on-premises and cloud (almost is AWS)
